@@ -1,0 +1,72 @@
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\bin\Debug\net6.0\appsettings.json
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\bin\Debug\net6.0\UFMG.Apresentacao.exe
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\bin\Debug\net6.0\UFMG.Apresentacao.deps.json
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\bin\Debug\net6.0\UFMG.Apresentacao.runtimeconfig.json
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\bin\Debug\net6.0\UFMG.Apresentacao.dll
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\bin\Debug\net6.0\UFMG.Apresentacao.pdb
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.csproj.AssemblyReference.cache
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.AssemblyInfoInputs.cache
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.AssemblyInfo.cs
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\obj\Debug\net6.0\scopedcss\bundle\UFMG.Apresentacao.styles.css
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.csproj.CopyComplete
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.dll
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\obj\Debug\net6.0\refint\UFMG.Apresentacao.dll
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.pdb
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.genruntimeconfig.cache
+C:\Users\Vinícius\source\repos\UFMG.Apresentacao\obj\Debug\net6.0\ref\UFMG.Apresentacao.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\appsettings.json
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\UFMG.Apresentacao.exe
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\UFMG.Apresentacao.deps.json
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\UFMG.Apresentacao.runtimeconfig.json
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\UFMG.Apresentacao.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\UFMG.Apresentacao.pdb
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.csproj.AssemblyReference.cache
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.AssemblyInfoInputs.cache
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.AssemblyInfo.cs
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\obj\Debug\net6.0\scopedcss\bundle\UFMG.Apresentacao.styles.css
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.csproj.CopyComplete
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\obj\Debug\net6.0\refint\UFMG.Apresentacao.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.pdb
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\obj\Debug\net6.0\UFMG.Apresentacao.genruntimeconfig.cache
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\obj\Debug\net6.0\ref\UFMG.Apresentacao.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\SimpleInjector.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\SimpleInjector.Integration.AspNetCore.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\SimpleInjector.Integration.AspNetCore.Mvc.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\SimpleInjector.Integration.AspNetCore.Mvc.Core.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\SimpleInjector.Integration.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\SimpleInjector.Integration.GenericHost.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\SimpleInjector.Integration.ServiceCollection.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\2 trimestre\27-04-2023\UFMG.Apresentacao\bin\Debug\net6.0\System.Security.Permissions.dll
